@@ -2,4 +2,4 @@ function Card(){
 
 }
 
-expect default Card;
+export default Card;
